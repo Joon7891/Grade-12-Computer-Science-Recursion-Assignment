@@ -1,1 +1,2 @@
-# A3_Recursion
+# Nerd Words
+Grade 12 Computer Science Recursion Assignment - Recursive Solution to Determining "Nerd-Words"
